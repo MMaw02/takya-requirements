@@ -8,6 +8,7 @@ skinparam roundcorner 20
 !define ONE_TO_TWO 1..2
 !define ONE_TO_MANY 1..N
 !define MANY_TO_MANY N..N
+!define MANY_TO_ONE N..1
 !define EMPTY ""
 
 !define compositionRelation(all, part, cardinality) all *--> part: cardinality
@@ -22,6 +23,7 @@ skinparam roundcorner 20
 
 class Usuario {
   - roles: RolUsuario
+  * areasAcademica: AreaAcademica
 }
 
 class AreaAcademica {
@@ -66,7 +68,7 @@ enum RolUsuario {
 }
 
 associationRelation(Usuario, RolUsuario, ONE_TO_ONE)
-associationRelation(Usuario, AreaAcademica, ONE_TO_MANY)
+associationRelation(Usuario, AreaAcademica, MANY_TO_ONE)
 associationRelation(Producto, Categoria, ONE_TO_MANY)
 associationRelation(Usuario, Venta, ZERO_TO_MANY)
 
