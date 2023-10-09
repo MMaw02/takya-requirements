@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="563px" preserveAspectRatio="none" style="width:924px;height:563px;background:#FFFFFF;" version="1.1" viewBox="0 0 924 563" width="924px" zoomAndPan="magnify"><defs/><g><!--MD5=[35a64b983c79880384a2fd9b61f0c24b]
+class Usuario--><g id="elem_Usuario"><rect codeLine="22" fill="#F1F1F1" height="65.6094" id="Usuario" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="134" x="473" y="7"/><ellipse cx="512.3" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M515.0656,18.875 Q515.2219,18.6563 515.4094,18.5469 Q515.5969,18.4375 515.8156,18.4375 Q516.1906,18.4375 516.425,18.7031 Q516.6594,18.9531 516.6594,19.5625 L516.6594,21.0156 Q516.6594,21.625 516.425,21.8906 Q516.1906,22.1563 515.8156,22.1563 Q515.4719,22.1563 515.2688,21.9531 Q515.0656,21.7656 514.9563,21.25 Q514.9094,20.8906 514.7219,20.7031 Q514.3938,20.3281 513.7844,20.1094 Q513.175,19.8906 512.55,19.8906 Q511.7844,19.8906 511.1437,20.2188 Q510.5187,20.5469 510.0187,21.2969 Q509.5344,22.0469 509.5344,23.0781 L509.5344,24.1719 Q509.5344,25.4063 510.425,26.2344 Q511.3156,27.0469 512.9094,27.0469 Q513.8469,27.0469 514.5031,26.7969 Q514.8938,26.6406 515.3156,26.2031 Q515.5813,25.9375 515.7219,25.8594 Q515.8781,25.7813 516.0813,25.7813 Q516.4094,25.7813 516.6594,26.0469 Q516.925,26.2969 516.925,26.6406 Q516.925,26.9844 516.5813,27.3906 Q516.0813,27.9688 515.2844,28.2969 Q514.2063,28.75 512.9094,28.75 Q511.3937,28.75 510.1906,28.125 Q509.2062,27.625 508.5187,26.5625 Q507.8312,25.4844 507.8312,24.2031 L507.8312,23.0469 Q507.8312,21.7188 508.4406,20.5781 Q509.0656,19.4219 510.1594,18.8125 Q511.2531,18.1875 512.4875,18.1875 Q513.2219,18.1875 513.8625,18.3594 Q514.5188,18.5156 515.0656,18.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="531.7" y="28.7285">Usuario</text><line style="stroke:#181818;stroke-width:0.5;" x1="474" x2="606" y1="39" y2="39"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="481" y="50.3047"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="493" y="57.5332">roles: RolUsuario</text><line style="stroke:#181818;stroke-width:0.5;" x1="474" x2="606" y1="64.6094" y2="64.6094"/></g><!--MD5=[40a11294dc27b7ccb6b89bf88032fa05]
+class AreaAcademica--><g id="elem_AreaAcademica"><rect codeLine="26" fill="#F1F1F1" height="83.2188" id="AreaAcademica" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="209" x="64.5" y="160"/><ellipse cx="115.25" cy="176" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M118.0156,171.875 Q118.1719,171.6563 118.3594,171.5469 Q118.5469,171.4375 118.7656,171.4375 Q119.1406,171.4375 119.375,171.7031 Q119.6094,171.9531 119.6094,172.5625 L119.6094,174.0156 Q119.6094,174.625 119.375,174.8906 Q119.1406,175.1563 118.7656,175.1563 Q118.4219,175.1563 118.2188,174.9531 Q118.0156,174.7656 117.9063,174.25 Q117.8594,173.8906 117.6719,173.7031 Q117.3438,173.3281 116.7344,173.1094 Q116.125,172.8906 115.5,172.8906 Q114.7344,172.8906 114.0938,173.2188 Q113.4688,173.5469 112.9688,174.2969 Q112.4844,175.0469 112.4844,176.0781 L112.4844,177.1719 Q112.4844,178.4063 113.375,179.2344 Q114.2656,180.0469 115.8594,180.0469 Q116.7969,180.0469 117.4531,179.7969 Q117.8438,179.6406 118.2656,179.2031 Q118.5313,178.9375 118.6719,178.8594 Q118.8281,178.7813 119.0313,178.7813 Q119.3594,178.7813 119.6094,179.0469 Q119.875,179.2969 119.875,179.6406 Q119.875,179.9844 119.5313,180.3906 Q119.0313,180.9688 118.2344,181.2969 Q117.1563,181.75 115.8594,181.75 Q114.3438,181.75 113.1406,181.125 Q112.1563,180.625 111.4688,179.5625 Q110.7813,178.4844 110.7813,177.2031 L110.7813,176.0469 Q110.7813,174.7188 111.3906,173.5781 Q112.0156,172.4219 113.1094,171.8125 Q114.2031,171.1875 115.4375,171.1875 Q116.1719,171.1875 116.8125,171.3594 Q117.4688,171.5156 118.0156,171.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="135.75" y="181.7285">AreaAcademica</text><line style="stroke:#181818;stroke-width:0.5;" x1="65.5" x2="272.5" y1="192" y2="192"/><ellipse cx="75.5" cy="206.3047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="183" x="84.5" y="210.5332">universidades: Universidad[*]</text><ellipse cx="75.5" cy="223.9141" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="84.5" y="228.1426">cursos: Curso[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="65.5" x2="272.5" y1="235.2188" y2="235.2188"/></g><!--MD5=[e80896688fdcdff1ec203b48a8b7f882]
+class Universidad--><g id="elem_Universidad"><rect codeLine="31" fill="#F1F1F1" height="65.6094" id="Universidad" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="258" x="40" y="7"/><ellipse cx="127.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M130.5156,18.875 Q130.6719,18.6563 130.8594,18.5469 Q131.0469,18.4375 131.2656,18.4375 Q131.6406,18.4375 131.875,18.7031 Q132.1094,18.9531 132.1094,19.5625 L132.1094,21.0156 Q132.1094,21.625 131.875,21.8906 Q131.6406,22.1563 131.2656,22.1563 Q130.9219,22.1563 130.7188,21.9531 Q130.5156,21.7656 130.4063,21.25 Q130.3594,20.8906 130.1719,20.7031 Q129.8438,20.3281 129.2344,20.1094 Q128.625,19.8906 128,19.8906 Q127.2344,19.8906 126.5938,20.2188 Q125.9688,20.5469 125.4688,21.2969 Q124.9844,22.0469 124.9844,23.0781 L124.9844,24.1719 Q124.9844,25.4063 125.875,26.2344 Q126.7656,27.0469 128.3594,27.0469 Q129.2969,27.0469 129.9531,26.7969 Q130.3438,26.6406 130.7656,26.2031 Q131.0313,25.9375 131.1719,25.8594 Q131.3281,25.7813 131.5313,25.7813 Q131.8594,25.7813 132.1094,26.0469 Q132.375,26.2969 132.375,26.6406 Q132.375,26.9844 132.0313,27.3906 Q131.5313,27.9688 130.7344,28.2969 Q129.6563,28.75 128.3594,28.75 Q126.8438,28.75 125.6406,28.125 Q124.6563,27.625 123.9688,26.5625 Q123.2813,25.4844 123.2813,24.2031 L123.2813,23.0469 Q123.2813,21.7188 123.8906,20.5781 Q124.5156,19.4219 125.6094,18.8125 Q126.7031,18.1875 127.9375,18.1875 Q128.6719,18.1875 129.3125,18.3594 Q129.9688,18.5156 130.5156,18.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="148.25" y="28.7285">Universidad</text><line style="stroke:#181818;stroke-width:0.5;" x1="41" x2="297" y1="39" y2="39"/><ellipse cx="51" cy="53.3047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="60" y="57.5332">areasAcademicas: AreaAcademica[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="41" x2="297" y1="64.6094" y2="64.6094"/></g><!--MD5=[aa9ebb045d22ec940c587c7180c59f8b]
+class Curso--><g id="elem_Curso"><rect codeLine="35" fill="#F1F1F1" height="65.6094" id="Curso" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="258" x="7" y="338.5"/><ellipse cx="112.75" cy="354.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M115.5156,350.375 Q115.6719,350.1563 115.8594,350.0469 Q116.0469,349.9375 116.2656,349.9375 Q116.6406,349.9375 116.875,350.2031 Q117.1094,350.4531 117.1094,351.0625 L117.1094,352.5156 Q117.1094,353.125 116.875,353.3906 Q116.6406,353.6563 116.2656,353.6563 Q115.9219,353.6563 115.7188,353.4531 Q115.5156,353.2656 115.4063,352.75 Q115.3594,352.3906 115.1719,352.2031 Q114.8438,351.8281 114.2344,351.6094 Q113.625,351.3906 113,351.3906 Q112.2344,351.3906 111.5938,351.7188 Q110.9688,352.0469 110.4688,352.7969 Q109.9844,353.5469 109.9844,354.5781 L109.9844,355.6719 Q109.9844,356.9063 110.875,357.7344 Q111.7656,358.5469 113.3594,358.5469 Q114.2969,358.5469 114.9531,358.2969 Q115.3438,358.1406 115.7656,357.7031 Q116.0313,357.4375 116.1719,357.3594 Q116.3281,357.2813 116.5313,357.2813 Q116.8594,357.2813 117.1094,357.5469 Q117.375,357.7969 117.375,358.1406 Q117.375,358.4844 117.0313,358.8906 Q116.5313,359.4688 115.7344,359.7969 Q114.6563,360.25 113.3594,360.25 Q111.8438,360.25 110.6406,359.625 Q109.6563,359.125 108.9688,358.0625 Q108.2813,356.9844 108.2813,355.7031 L108.2813,354.5469 Q108.2813,353.2188 108.8906,352.0781 Q109.5156,350.9219 110.6094,350.3125 Q111.7031,349.6875 112.9375,349.6875 Q113.6719,349.6875 114.3125,349.8594 Q114.9688,350.0156 115.5156,350.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="133.25" y="360.2285">Curso</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="264" y1="370.5" y2="370.5"/><ellipse cx="18" cy="384.8047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="27" y="389.0332">areasAcademicas: AreaAcademica[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="264" y1="396.1094" y2="396.1094"/></g><!--MD5=[fe4478d9c9a369b28097141e000aa656]
+class Venta--><g id="elem_Venta"><rect codeLine="39" fill="#F1F1F1" height="100.8281" id="Venta" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="213" x="433.5" y="151"/><ellipse cx="517.25" cy="167" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M520.0156,162.875 Q520.1719,162.6563 520.3594,162.5469 Q520.5469,162.4375 520.7656,162.4375 Q521.1406,162.4375 521.375,162.7031 Q521.6094,162.9531 521.6094,163.5625 L521.6094,165.0156 Q521.6094,165.625 521.375,165.8906 Q521.1406,166.1563 520.7656,166.1563 Q520.4219,166.1563 520.2188,165.9531 Q520.0156,165.7656 519.9063,165.25 Q519.8594,164.8906 519.6719,164.7031 Q519.3438,164.3281 518.7344,164.1094 Q518.125,163.8906 517.5,163.8906 Q516.7344,163.8906 516.0938,164.2188 Q515.4688,164.5469 514.9688,165.2969 Q514.4844,166.0469 514.4844,167.0781 L514.4844,168.1719 Q514.4844,169.4063 515.375,170.2344 Q516.2656,171.0469 517.8594,171.0469 Q518.7969,171.0469 519.4531,170.7969 Q519.8438,170.6406 520.2656,170.2031 Q520.5313,169.9375 520.6719,169.8594 Q520.8281,169.7813 521.0313,169.7813 Q521.3594,169.7813 521.6094,170.0469 Q521.875,170.2969 521.875,170.6406 Q521.875,170.9844 521.5313,171.3906 Q521.0313,171.9688 520.2344,172.2969 Q519.1563,172.75 517.8594,172.75 Q516.3438,172.75 515.1406,172.125 Q514.1563,171.625 513.4688,170.5625 Q512.7813,169.4844 512.7813,168.2031 L512.7813,167.0469 Q512.7813,165.7188 513.3906,164.5781 Q514.0156,163.4219 515.1094,162.8125 Q516.2031,162.1875 517.4375,162.1875 Q518.1719,162.1875 518.8125,162.3594 Q519.4688,162.5156 520.0156,162.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="537.75" y="172.7285">Venta</text><line style="stroke:#181818;stroke-width:0.5;" x1="434.5" x2="645.5" y1="183" y2="183"/><ellipse cx="444.5" cy="197.3047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="453.5" y="201.5332">productos: Producto</text><ellipse cx="444.5" cy="214.9141" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="187" x="453.5" y="219.1426">transacciones: Transaccion[*]</text><ellipse cx="444.5" cy="232.5234" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="453.5" y="236.752">usuario: Usuario</text><line style="stroke:#181818;stroke-width:0.5;" x1="434.5" x2="645.5" y1="243.8281" y2="243.8281"/></g><!--MD5=[9884e166d189446fe4825863c8acf943]
+class Producto--><g id="elem_Producto"><rect codeLine="45" fill="#F1F1F1" height="83.2188" id="Producto" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="155" x="300.5" y="330"/><ellipse cx="345.25" cy="346" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M348.0156,341.875 Q348.1719,341.6563 348.3594,341.5469 Q348.5469,341.4375 348.7656,341.4375 Q349.1406,341.4375 349.375,341.7031 Q349.6094,341.9531 349.6094,342.5625 L349.6094,344.0156 Q349.6094,344.625 349.375,344.8906 Q349.1406,345.1563 348.7656,345.1563 Q348.4219,345.1563 348.2188,344.9531 Q348.0156,344.7656 347.9063,344.25 Q347.8594,343.8906 347.6719,343.7031 Q347.3438,343.3281 346.7344,343.1094 Q346.125,342.8906 345.5,342.8906 Q344.7344,342.8906 344.0938,343.2188 Q343.4688,343.5469 342.9688,344.2969 Q342.4844,345.0469 342.4844,346.0781 L342.4844,347.1719 Q342.4844,348.4063 343.375,349.2344 Q344.2656,350.0469 345.8594,350.0469 Q346.7969,350.0469 347.4531,349.7969 Q347.8438,349.6406 348.2656,349.2031 Q348.5313,348.9375 348.6719,348.8594 Q348.8281,348.7813 349.0313,348.7813 Q349.3594,348.7813 349.6094,349.0469 Q349.875,349.2969 349.875,349.6406 Q349.875,349.9844 349.5313,350.3906 Q349.0313,350.9688 348.2344,351.2969 Q347.1563,351.75 345.8594,351.75 Q344.3438,351.75 343.1406,351.125 Q342.1563,350.625 341.4688,349.5625 Q340.7813,348.4844 340.7813,347.2031 L340.7813,346.0469 Q340.7813,344.7188 341.3906,343.5781 Q342.0156,342.4219 343.1094,341.8125 Q344.2031,341.1875 345.4375,341.1875 Q346.1719,341.1875 346.8125,341.3594 Q347.4688,341.5156 348.0156,341.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="365.75" y="351.7285">Producto</text><line style="stroke:#181818;stroke-width:0.5;" x1="301.5" x2="454.5" y1="362" y2="362"/><ellipse cx="311.5" cy="376.3047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="320.5" y="380.5332">usuario : Usuario</text><ellipse cx="311.5" cy="393.9141" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="320.5" y="398.1426">categoria: Categoria</text><line style="stroke:#181818;stroke-width:0.5;" x1="301.5" x2="454.5" y1="405.2188" y2="405.2188"/></g><!--MD5=[7e1ce8ab2bf669717f28e918f4971b9a]
+class Categoria--><g id="elem_Categoria"><rect codeLine="50" fill="#F1F1F1" height="65.6094" id="Categoria" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="167" x="294.5" y="491"/><ellipse cx="342.75" cy="507" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M345.5156,502.875 Q345.6719,502.6563 345.8594,502.5469 Q346.0469,502.4375 346.2656,502.4375 Q346.6406,502.4375 346.875,502.7031 Q347.1094,502.9531 347.1094,503.5625 L347.1094,505.0156 Q347.1094,505.625 346.875,505.8906 Q346.6406,506.1563 346.2656,506.1563 Q345.9219,506.1563 345.7188,505.9531 Q345.5156,505.7656 345.4063,505.25 Q345.3594,504.8906 345.1719,504.7031 Q344.8438,504.3281 344.2344,504.1094 Q343.625,503.8906 343,503.8906 Q342.2344,503.8906 341.5938,504.2188 Q340.9688,504.5469 340.4688,505.2969 Q339.9844,506.0469 339.9844,507.0781 L339.9844,508.1719 Q339.9844,509.4063 340.875,510.2344 Q341.7656,511.0469 343.3594,511.0469 Q344.2969,511.0469 344.9531,510.7969 Q345.3438,510.6406 345.7656,510.2031 Q346.0313,509.9375 346.1719,509.8594 Q346.3281,509.7813 346.5313,509.7813 Q346.8594,509.7813 347.1094,510.0469 Q347.375,510.2969 347.375,510.6406 Q347.375,510.9844 347.0313,511.3906 Q346.5313,511.9688 345.7344,512.2969 Q344.6563,512.75 343.3594,512.75 Q341.8438,512.75 340.6406,512.125 Q339.6563,511.625 338.9688,510.5625 Q338.2813,509.4844 338.2813,508.2031 L338.2813,507.0469 Q338.2813,505.7188 338.8906,504.5781 Q339.5156,503.4219 340.6094,502.8125 Q341.7031,502.1875 342.9375,502.1875 Q343.6719,502.1875 344.3125,502.3594 Q344.9688,502.5156 345.5156,502.875 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="363.25" y="512.7285">Categoria</text><line style="stroke:#181818;stroke-width:0.5;" x1="295.5" x2="460.5" y1="523" y2="523"/><ellipse cx="305.5" cy="537.3047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="314.5" y="541.5332">productos: Producto[*]</text><line style="stroke:#181818;stroke-width:0.5;" x1="295.5" x2="460.5" y1="548.6094" y2="548.6094"/></g><!--MD5=[f58c5f87f72b515c963237d9b3fc60ab]
+class Mentoria--><g id="elem_Mentoria"><rect codeLine="54" fill="#F1F1F1" height="65.6094" id="Mentoria" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="129" x="647.5" y="338.5"/><ellipse cx="681.4" cy="354.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M684.1656,350.375 Q684.3219,350.1563 684.5094,350.0469 Q684.6969,349.9375 684.9156,349.9375 Q685.2906,349.9375 685.525,350.2031 Q685.7594,350.4531 685.7594,351.0625 L685.7594,352.5156 Q685.7594,353.125 685.525,353.3906 Q685.2906,353.6563 684.9156,353.6563 Q684.5719,353.6563 684.3688,353.4531 Q684.1656,353.2656 684.0563,352.75 Q684.0094,352.3906 683.8219,352.2031 Q683.4938,351.8281 682.8844,351.6094 Q682.275,351.3906 681.65,351.3906 Q680.8844,351.3906 680.2438,351.7188 Q679.6188,352.0469 679.1188,352.7969 Q678.6344,353.5469 678.6344,354.5781 L678.6344,355.6719 Q678.6344,356.9063 679.525,357.7344 Q680.4156,358.5469 682.0094,358.5469 Q682.9469,358.5469 683.6031,358.2969 Q683.9938,358.1406 684.4156,357.7031 Q684.6813,357.4375 684.8219,357.3594 Q684.9781,357.2813 685.1813,357.2813 Q685.5094,357.2813 685.7594,357.5469 Q686.025,357.7969 686.025,358.1406 Q686.025,358.4844 685.6813,358.8906 Q685.1813,359.4688 684.3844,359.7969 Q683.3063,360.25 682.0094,360.25 Q680.4938,360.25 679.2906,359.625 Q678.3063,359.125 677.6188,358.0625 Q676.9313,356.9844 676.9313,355.7031 L676.9313,354.5469 Q676.9313,353.2188 677.5406,352.0781 Q678.1656,350.9219 679.2594,350.3125 Q680.3531,349.6875 681.5875,349.6875 Q682.3219,349.6875 682.9625,349.8594 Q683.6188,350.0156 684.1656,350.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="699.6" y="360.2285">Mentoria</text><line style="stroke:#181818;stroke-width:0.5;" x1="648.5" x2="775.5" y1="370.5" y2="370.5"/><ellipse cx="658.5" cy="384.8047" fill="#000000" rx="3" ry="3" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="667.5" y="389.0332">usuario: Usuario</text><line style="stroke:#181818;stroke-width:0.5;" x1="648.5" x2="775.5" y1="396.1094" y2="396.1094"/></g><!--MD5=[20aaa5753acdb9d11694cd877780c7cd]
+class Transaccion--><g id="elem_Transaccion"><rect codeLine="58" fill="#F1F1F1" height="48" id="Transaccion" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="110" x="491" y="347.5"/><ellipse cx="506" cy="363.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M508.7656,359.375 Q508.9219,359.1563 509.1094,359.0469 Q509.2969,358.9375 509.5156,358.9375 Q509.8906,358.9375 510.125,359.2031 Q510.3594,359.4531 510.3594,360.0625 L510.3594,361.5156 Q510.3594,362.125 510.125,362.3906 Q509.8906,362.6563 509.5156,362.6563 Q509.1719,362.6563 508.9688,362.4531 Q508.7656,362.2656 508.6563,361.75 Q508.6094,361.3906 508.4219,361.2031 Q508.0938,360.8281 507.4844,360.6094 Q506.875,360.3906 506.25,360.3906 Q505.4844,360.3906 504.8438,360.7188 Q504.2188,361.0469 503.7188,361.7969 Q503.2344,362.5469 503.2344,363.5781 L503.2344,364.6719 Q503.2344,365.9063 504.125,366.7344 Q505.0156,367.5469 506.6094,367.5469 Q507.5469,367.5469 508.2031,367.2969 Q508.5938,367.1406 509.0156,366.7031 Q509.2813,366.4375 509.4219,366.3594 Q509.5781,366.2813 509.7813,366.2813 Q510.1094,366.2813 510.3594,366.5469 Q510.625,366.7969 510.625,367.1406 Q510.625,367.4844 510.2813,367.8906 Q509.7813,368.4688 508.9844,368.7969 Q507.9063,369.25 506.6094,369.25 Q505.0938,369.25 503.8906,368.625 Q502.9063,368.125 502.2188,367.0625 Q501.5313,365.9844 501.5313,364.7031 L501.5313,363.5469 Q501.5313,362.2188 502.1406,361.0781 Q502.7656,359.9219 503.8594,359.3125 Q504.9531,358.6875 506.1875,358.6875 Q506.9219,358.6875 507.5625,358.8594 Q508.2188,359.0156 508.7656,359.375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="520" y="369.2285">Transaccion</text><line style="stroke:#181818;stroke-width:0.5;" x1="492" x2="600" y1="379.5" y2="379.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="492" x2="600" y1="387.5" y2="387.5"/></g><!--MD5=[46b2e972ff240811129306cc525c2952]
+class RolUsuario--><g id="elem_RolUsuario"><rect codeLine="61" fill="#F1F1F1" height="100.8281" id="RolUsuario" rx="10" ry="10" style="stroke:#181818;stroke-width:0.5;" width="139" x="778.5" y="151"/><ellipse cx="810.6" cy="167" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M809.4594,167.7969 L809.4594,170.2969 L813.7875,170.2969 L813.7875,169.375 Q813.7875,168.7656 814.0219,168.5 Q814.2719,168.2344 814.6469,168.2344 Q815.0219,168.2344 815.2563,168.5 Q815.4906,168.7656 815.4906,169.375 L815.4906,172 L807.4906,172 Q806.8656,172 806.6,171.7656 Q806.35,171.5313 806.35,171.1406 Q806.35,170.7656 806.6156,170.5313 Q806.8813,170.2969 807.4906,170.2969 L807.7563,170.2969 L807.7563,163.6406 L807.4906,163.6406 Q806.8656,163.6406 806.6,163.4063 Q806.35,163.1719 806.35,162.7813 Q806.35,162.4063 806.6,162.1719 Q806.8656,161.9375 807.4906,161.9375 L815.1156,161.9375 L815.1156,164.5313 Q815.1156,165.1406 814.8813,165.4063 Q814.6625,165.6563 814.2719,165.6563 Q813.8969,165.6563 813.6625,165.4063 Q813.4281,165.1406 813.4281,164.5313 L813.4281,163.6406 L809.4594,163.6406 L809.4594,166.0938 L810.9438,166.0938 Q810.9438,165.4375 811.0688,165.25 Q811.3344,164.8438 811.8031,164.8438 Q812.1781,164.8438 812.4125,165.1094 Q812.6469,165.3594 812.6469,165.9688 L812.6469,167.9375 Q812.6469,168.4844 812.5219,168.6719 Q812.2563,169.0625 811.8031,169.0625 Q811.3344,169.0625 811.0688,168.6563 Q810.9438,168.4688 810.9438,167.7969 L809.4594,167.7969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="828.4" y="172.7285">RolUsuario</text><line style="stroke:#181818;stroke-width:0.5;" x1="779.5" x2="916.5" y1="183" y2="183"/><ellipse cx="789.5" cy="197.3047" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="798.5" y="201.5332">ESTUDIANTE</text><ellipse cx="789.5" cy="214.9141" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="798.5" y="219.1426">MENTOR</text><ellipse cx="789.5" cy="232.5234" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="798.5" y="236.752">ADMINISTRADOR</text><line style="stroke:#181818;stroke-width:0.5;" x1="779.5" x2="916.5" y1="243.8281" y2="243.8281"/></g><!--MD5=[938257538c64ee280982fdf284a815f3]
+link Usuario to RolUsuario--><g id="link_Usuario_RolUsuario"><path codeLine="67" d="M607.07,53.46 C648.19,63 700.85,78.73 743,103 C763.44,114.77 783.15,131.2 799.86,147.22 " fill="none" id="Usuario-to-RolUsuario" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="803.6,150.85,799.9348,141.7085,800.0148,147.3648,794.3585,147.4448,803.6,150.85" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="22" x="769" y="117.4951">1..1</text></g><!--MD5=[0b6f943a08e2de8ba1b0736d783ca0c0]
+link Usuario to AreaAcademica--><g id="link_Usuario_AreaAcademica"><path codeLine="68" d="M472.72,54.46 C428.2,64.69 369.19,80.8 320,103 C287.74,117.56 254.42,138.36 227.32,157.01 " fill="none" id="Usuario-to-AreaAcademica" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="223.02,159.99,232.6982,158.1646,227.1335,157.1477,228.1505,151.583,223.02,159.99" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="321" y="117.4951">1..N</text></g><!--MD5=[848c29ff973e1808fede1ce99c2568cd]
+link Producto to Categoria--><g id="link_Producto_Categoria"><path codeLine="69" d="M378,413.23 C378,435.79 378,463.65 378,485.65 " fill="none" id="Producto-to-Categoria" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="378,490.82,382,481.82,378,485.82,374,481.82,378,490.82" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="379" y="457.4951">1..N</text></g><!--MD5=[0b46aff9f6f4469f587f429f885356be]
+link Usuario to Venta--><g id="link_Usuario_Venta"><path codeLine="70" d="M540,73.28 C540,94.1 540,121.71 540,145.88 " fill="none" id="Usuario-to-Venta" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="540,150.99,544,141.99,540,145.99,536,141.99,540,150.99" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="541" y="117.4951">0..N</text></g><!--MD5=[f0efdc319b5071c5e9dc9b80cc9170be]
+link Universidad to AreaAcademica--><g id="link_Universidad_AreaAcademica"><path codeLine="72" d="M169,85.28 C169,85.28 169,127.17 169,146.68 " fill="none" id="Universidad-AreaAcademica" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="169,159.75,173,150.75,169,154.75,165,150.75,169,159.75" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="169" x2="169" y1="154.75" y2="146.75"/><polygon fill="#181818" points="169,73.28,165,79.28,169,85.28,173,79.28,169,73.28" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="170" y="117.4951">N..N</text></g><!--MD5=[c3190e6d4af51842ce2b5925a170017c]
+link AreaAcademica to Curso--><g id="link_AreaAcademica_Curso"><path codeLine="73" d="M158.7023,254.946 C158.7023,254.946 149.07,303.98 144.87,325.34 " fill="none" id="AreaAcademica-Curso" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="142.32,338.34,147.9761,330.2772,143.2816,333.4333,140.1255,328.7388,142.32,338.34" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="143.2816" x2="144.825" y1="333.4333" y2="325.585"/><polygon fill="#181818" points="161.01,243.17,155.9308,248.2888,158.7023,254.946,163.7815,249.8272,161.01,243.17" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="154" y="296.4951">N..N</text></g><!--MD5=[c7d45dee5f39a5402f90948feb3e257a]
+link Venta to Producto--><g id="link_Venta_Producto"><path codeLine="74" d="M483.4977,261.0855 C483.4977,261.0855 444.21,301.83 426.54,320.16 " fill="none" id="Venta-Producto" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="417.27,329.77,426.3948,326.0636,420.7389,326.1691,420.6334,320.5132,417.27,329.77" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="420.7389" x2="426.295" y1="326.1691" y2="320.415"/><polygon fill="#181818" points="491.83,252.45,484.7853,253.9903,483.4977,261.0855,490.5424,259.5452,491.83,252.45" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="460" y="296.4951">N..N</text></g><!--MD5=[3ac7d45e00102d2303f9751e2f330b30]
+link Venta to Transaccion--><g id="link_Venta_Transaccion"><path codeLine="75" d="M542.2017,264.4426 C542.2017,264.4426 543.98,313.98 544.69,333.94 " fill="none" id="Venta-Transaccion" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="545.16,347.12,548.8312,337.981,544.9788,342.1233,540.8365,338.2709,545.16,347.12" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="544.9788" x2="544.7" y1="342.1233" y2="334.125"/><polygon fill="#181818" points="541.78,252.45,537.9933,258.5869,542.2017,264.4426,545.9884,258.3057,541.78,252.45" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="545" y="296.4951">1..N</text></g><!--MD5=[c80cf3fdc6cd3abb443411a39f20077a]
+link Usuario to Mentoria--><g id="link_Usuario_Mentoria"><path codeLine="76" d="M598.7677,80.4244 C598.7677,80.4244 648.1,123.87 664,151 C695.89,205.4 706.65,278.63 710.24,325.21 " fill="none" id="Usuario-Mentoria" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="711.13,338.47,714.5177,329.2221,710.7949,333.4812,706.5357,329.7584,711.13,338.47" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="710.7949" x2="710.26" y1="333.4812" y2="325.495"/><polygon fill="#181818" points="589.27,73.09,591.5741,79.9231,598.7677,80.4244,596.4637,73.5913,589.27,73.09" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="701" y="206.9951">0..N</text></g><!--MD5=[8add642bd5958cdfd9403304e75dfd48]
+link Venta to Mentoria--><g id="link_Venta_Mentoria"><path codeLine="77" d="M599.7236,260.8358 C599.7236,260.8358 648.94,308.9 669.72,329.2 " fill="none" id="Venta-Mentoria" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="679.22,338.48,675.5776,329.3294,675.6435,334.9859,669.987,335.0518,679.22,338.48" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="675.6435" x2="669.92" y1="334.9859" y2="329.395"/><polygon fill="#181818" points="591.14,252.45,592.6365,259.5041,599.7236,260.8358,598.2271,253.7817,591.14,252.45" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="638" y="296.4951">N..N</text></g><!--MD5=[85bb3550a2d19053af1450c2105564d2]
+link Usuario to Producto--><g id="link_Usuario_Producto"><path codeLine="78" d="M462.626,79.0749 C462.626,79.0749 406.08,121.3 390,151 C362.38,202.01 363.32,269.82 368.65,316.51 " fill="none" id="Usuario-Producto" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="370.34,329.68,373.1696,320.2464,369.7076,324.7201,365.2339,321.2581,370.34,329.68" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="369.7076" x2="368.69" y1="324.7201" y2="316.785"/><polygon fill="#181818" points="472.83,72.76,465.623,72.5161,462.626,79.0749,469.833,79.3188,472.83,72.76" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="24" x="391" y="206.9951">0..N</text></g><!--MD5=[504d0564da671d68c51c88c98cd40c52]
+@startuml domain-model-takya
+skinparam roundcorner 20
+' skinparam Dpi 500
+' skinparam linetype ortho
+!define ZERO_TO_ONE 0..1
+!define ZERO_TO_MANY 0..N
+!define ONE_TO_ONE 1..1
+!define ONE_TO_TWO 1..2
+!define ONE_TO_MANY 1..N
+!define MANY_TO_MANY N..N
+!define EMPTY ""
+
+!define compositionRelation(all, part, cardinality) all *- -> part: cardinality
+
+!define associationRelation(client, server, cardinality) client - -> server: cardinality
+
+!define aggregationRelation(whole, part, cardinality) whole o- -> part: cardinality
+
+!define useRelation(user, used, cardinality) user ..> used: cardinality
+
+!define inheritanceRelation(child, parent, cardinality) child <|- - parent: cardinality
+
+class Usuario {
+  - roles: RolUsuario
+}
+
+class AreaAcademica {
+  * universidades: Universidad[*]
+  * cursos: Curso[*]
+}
+
+class Universidad {
+  * areasAcademicas: AreaAcademica[*]
+}
+
+class Curso {
+  * areasAcademicas: AreaAcademica[*]
+}
+
+class Venta {
+  * productos: Producto
+  * transacciones: Transaccion[*]
+  * usuario: Usuario
+}
+
+class Producto {
+  * usuario : Usuario
+  * categoria: Categoria
+}
+
+class Categoria {
+  * productos: Producto[*]
+}
+
+class Mentoria {
+  * usuario: Usuario
+}
+
+class Transaccion {
+}
+
+enum RolUsuario {
+  + ESTUDIANTE
+  + MENTOR
+  + ADMINISTRADOR
+}
+
+associationRelation(Usuario, RolUsuario, ONE_TO_ONE)
+associationRelation(Usuario, AreaAcademica, ONE_TO_MANY)
+associationRelation(Producto, Categoria, ONE_TO_MANY)
+associationRelation(Usuario, Venta, ZERO_TO_MANY)
+
+compositionRelation(Universidad, AreaAcademica, MANY_TO_MANY)
+compositionRelation(AreaAcademica, Curso, MANY_TO_MANY)
+compositionRelation(Venta, Producto, MANY_TO_MANY)
+compositionRelation(Venta, Transaccion, ONE_TO_MANY)
+compositionRelation(Usuario, Mentoria, ZERO_TO_MANY)
+compositionRelation(Venta, Mentoria, MANY_TO_MANY)
+compositionRelation(Usuario, Producto, ZERO_TO_MANY)
+
+@enduml
+
+@startuml domain-model-takya
+skinparam roundcorner 20
+
+
+
+
+
+
+class Usuario {
+  - roles: RolUsuario
+}
+
+class AreaAcademica {
+  * universidades: Universidad[*]
+  * cursos: Curso[*]
+}
+
+class Universidad {
+  * areasAcademicas: AreaAcademica[*]
+}
+
+class Curso {
+  * areasAcademicas: AreaAcademica[*]
+}
+
+class Venta {
+  * productos: Producto
+  * transacciones: Transaccion[*]
+  * usuario: Usuario
+}
+
+class Producto {
+  * usuario : Usuario
+  * categoria: Categoria
+}
+
+class Categoria {
+  * productos: Producto[*]
+}
+
+class Mentoria {
+  * usuario: Usuario
+}
+
+class Transaccion {
+}
+
+enum RolUsuario {
+  + ESTUDIANTE
+  + MENTOR
+  + ADMINISTRADOR
+}
+
+Usuario - -> RolUsuario: 1..1
+Usuario - -> AreaAcademica: 1..N
+Producto - -> Categoria: 1..N
+Usuario - -> Venta: 0..N
+
+Universidad *- -> AreaAcademica: N..N
+AreaAcademica *- -> Curso: N..N
+Venta *- -> Producto: N..N
+Venta *- -> Transaccion: 1..N
+Usuario *- -> Mentoria: 0..N
+Venta *- -> Mentoria: N..N
+Usuario *- -> Producto: 0..N
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 12:01:30 PET 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: es
+Country: PE
+--></g></svg>
