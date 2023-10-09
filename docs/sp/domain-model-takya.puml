@@ -1,0 +1,81 @@
+@startuml domain-model-takya
+skinparam roundcorner 20
+' skinparam Dpi 500
+' skinparam linetype ortho
+!define ZERO_TO_ONE 0..1
+!define ZERO_TO_MANY 0..N
+!define ONE_TO_ONE 1..1
+!define ONE_TO_TWO 1..2
+!define ONE_TO_MANY 1..N
+!define MANY_TO_MANY N..N
+!define EMPTY ""
+
+!define compositionRelation(all, part, cardinality) all *--> part: cardinality
+
+!define associationRelation(client, server, cardinality) client --> server: cardinality
+
+!define aggregationRelation(whole, part, cardinality) whole o--> part: cardinality
+
+!define useRelation(user, used, cardinality) user ..> used: cardinality
+
+!define inheritanceRelation(child, parent, cardinality) child <|-- parent: cardinality
+
+class Usuario {
+  - roles: RolUsuario
+}
+
+class AreaAcademica {
+  * universidades: Universidad[*]
+  * cursos: Curso[*]
+}
+
+class Universidad {
+  * areasAcademicas: AreaAcademica[*]
+}
+
+class Curso {
+  * areasAcademicas: AreaAcademica[*]
+}
+
+class Venta {
+  * productos: Producto
+  * transacciones: Transaccion[*]
+  * usuario: Usuario
+}
+
+class Producto {
+  * usuario : Usuario
+  * categoria: Categoria
+}
+
+class Categoria {
+  * productos: Producto[*]
+}
+
+class Mentoria {
+  * usuario: Usuario
+}
+
+class Transaccion {
+}
+
+enum RolUsuario {
+  + ESTUDIANTE
+  + MENTOR
+  + ADMINISTRADOR
+}
+
+associationRelation(Usuario, RolUsuario, ONE_TO_ONE)
+associationRelation(Usuario, AreaAcademica, ONE_TO_MANY)
+associationRelation(Producto, Categoria, ONE_TO_MANY)
+associationRelation(Usuario, Venta, ZERO_TO_MANY)
+
+compositionRelation(Universidad, AreaAcademica, MANY_TO_MANY)
+compositionRelation(AreaAcademica, Curso, MANY_TO_MANY)
+compositionRelation(Venta, Producto, MANY_TO_MANY)
+compositionRelation(Venta, Transaccion, ONE_TO_MANY)
+compositionRelation(Usuario, Mentoria, ZERO_TO_MANY)
+compositionRelation(Venta, Mentoria, MANY_TO_MANY)
+compositionRelation(Usuario, Producto, ZERO_TO_MANY)
+
+@enduml
